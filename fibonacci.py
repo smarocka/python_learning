@@ -1,14 +1,16 @@
+"""dzialania"""
 def mul(nr1, nr2):
-    sum=nr1*nr2
-    return (sum)
+    """mnozenie"""
+    return nr1 * nr2
 
 def sub(nr1, nr2):
-    sum=nr1-nr2
-    return (sum)
+    """odejmowanie"""
+    return nr1 - nr2
 
 # if __name__ == '__main__':
-print("pies")
 
-def sum(nr1, nr2):
-    sum=nr1+nr2
-    return(sum)
+
+def summ(nr1, nr2):
+    """dodawanie"""
+    result = nr1 + nr2
+    return result
