@@ -1,0 +1,3 @@
+import fibonacci
+
+print("kot")
